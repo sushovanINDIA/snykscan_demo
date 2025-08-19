@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 public class Snykservice {
 
 	public static void snyk_serrvice() {
-		
+		System.out.println("First Snyk Project");
 	}
 }
